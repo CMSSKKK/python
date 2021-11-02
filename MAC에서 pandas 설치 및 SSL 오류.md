@@ -2,11 +2,11 @@
 
 * 설치
 
-  ![install pandas]()
+  ![install pandas](https://github.com/CMSSKKK/python/blob/main/img/pandas%20%EC%84%A4%EC%B9%98.png)
 
 * SSL 오류 
 
-  ![SSL 오류 메시지]()
+  ![SSL 오류 메시지](https://github.com/CMSSKKK/python/blob/main/img/ssl%20%EC%98%A4%EB%A5%98.png)
 
 * 오류 해결
 
@@ -16,5 +16,5 @@
 
   다시 코드를 실행해보면 정상 동작
 
-  ![정상 동작]()
+  ![정상 동작](https://github.com/CMSSKKK/python/blob/main/img/%EC%A0%95%EC%83%81%20%EC%8B%A4%ED%96%89.png)
 
