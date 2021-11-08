@@ -10,7 +10,7 @@ import pandas as pd
 df = pd.DataFrame(fruit,columns=['fruit'])
 
 count = df['fruit'].value_counts()
-count2 = df['fruit'].value_counts(normalize=True)
+count2 = df['fruit'].value_counts(normalize=True) # normalize 비율로 나타내줌 (default 값은 False)
 
 print(count)
 print(count2)
